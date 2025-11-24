@@ -1,0 +1,29 @@
+# Task 1 – Iris Dataset Exploration
+
+## Objective
+Explore and visualize the Iris dataset to understand data distribution and basic relationships between features.
+
+## Dataset Used
+Iris Dataset (Loaded using Seaborn)
+
+## Steps Performed
+1. Loaded dataset using pandas
+2. Checked shape, column names, and basic info
+3. Generated summary statistics using describe()
+4. Created visualizations:
+   - Scatter plot
+   - Histograms
+   - Box plots
+
+## Results / Insights
+- Dataset contains 150 rows and 5 columns
+- No missing values
+- Setosa is clearly separable
+- Data is clean and ready for modeling
+
+## Tools Used
+- Python
+- pandas
+- seaborn
+- matplotlib
+- Jupyter Notebook
