@@ -1,2 +1,2 @@
 # AI-ML-Internship-Tasks
-#Task-1-Data-Exploration
+Added README for Task 1
